@@ -1,10 +1,4 @@
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Backend+Engineer;AI+Agent+Architect;Go+%C2%B7+Python+%C2%B7+Java)](https://git.io/typing-svg)
-
-</div>
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=false&vCenter=true&random=false&width=500&lines=Backend+Engineer;AI+Agent+Architect;Go+%C2%B7+Python+%C2%B7+Java)](https://git.io/typing-svg)
 
 ### Tech Stack
 
@@ -60,10 +54,3 @@
     </td>
   </tr>
 </table>
-
-
----
-
-<div align="center">
-  <img src="./assets/chiikawa.gif" width="80" />
-</div>
